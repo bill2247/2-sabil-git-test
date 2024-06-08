@@ -1,0 +1,2 @@
+def printHola():
+  print("Hola")
